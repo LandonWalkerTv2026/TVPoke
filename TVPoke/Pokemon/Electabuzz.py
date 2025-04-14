@@ -9,4 +9,4 @@ class Electabuzz(Electric):
             Move("Discharge", "ELECTRIC", 80),
             Move("Thunder Punch", "ELECTRIC", 75)
         ]
-        super().__init__("Electabuzz", 70, moves, "./TVPoke/Pokemon/imgs/Electabuzz.png")
+        super().__init__("Electabuzz", 65, moves, "./TVPoke/Pokemon/imgs/Electabuzz.png")
